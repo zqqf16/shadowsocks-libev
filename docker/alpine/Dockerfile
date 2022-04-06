@@ -2,7 +2,7 @@
 # Dockerfile for shadowsocks-libev
 #
 
-FROM alpine
+FROM alpine:3.15.4
 MAINTAINER kev <noreply@datageek.info>
 
 ENV SS_URL https://github.com/shadowsocks/shadowsocks-libev.git
