@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 MAINTAINER Sah Lee <contact@leesah.name>
 
